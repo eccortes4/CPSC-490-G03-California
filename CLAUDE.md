@@ -27,7 +27,7 @@ merely suggested; see `docs/aidlc/loop-engineering.md`.
 
 - **Course:** CPSC 490 Undergraduate Seminar, Fall 2026 (proposal + prototype
   semester; full implementation happens in CPSC 491).
-- **Team:** Group 〈N〉 〈name〉 — members in `README.md`.
+- **Team:** Group 3 California — members in `README.md`.
 - **Project:** 〈one or two sentences a stranger understands〉
 - **Sponsor:** 〈RTX-3 / EL-1 / SNX-n / independent〉
 - **Source of truth:** `proposal/proposal.md`. Specs in `docs/specs/`,
